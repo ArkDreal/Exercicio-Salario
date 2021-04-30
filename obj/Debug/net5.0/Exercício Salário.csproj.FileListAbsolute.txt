@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\bin\Debug\net5.0\Exercício Salário.exe
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\bin\Debug\net5.0\Exercício Salário.deps.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\bin\Debug\net5.0\Exercício Salário.runtimeconfig.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\bin\Debug\net5.0\Exercício Salário.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\bin\Debug\net5.0\Exercício Salário.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\bin\Debug\net5.0\ref\Exercício Salário.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\bin\Debug\net5.0\Exercício Salário.pdb
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\obj\Debug\net5.0\Exercício Salário.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\obj\Debug\net5.0\Exercício Salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\obj\Debug\net5.0\Exercício Salário.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\obj\Debug\net5.0\Exercício Salário.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\obj\Debug\net5.0\Exercício Salário.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\obj\Debug\net5.0\Exercício Salário.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\obj\Debug\net5.0\ref\Exercício Salário.dll
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\obj\Debug\net5.0\Exercício Salário.pdb
+C:\Users\Administrador\Desktop\SENAI - ANDREY\Exercício Salário\obj\Debug\net5.0\Exercício Salário.genruntimeconfig.cache
